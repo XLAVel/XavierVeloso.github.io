@@ -111,11 +111,3 @@ If you like this project, feel free to star the repository!
 
 Xavier Veloso
 Data Analyst | Graphic Designer
-
-If you want, I can also:
-
-Make it more technical (for recruiters)
-
-Make a minimal version
-
-Or customize it specifically around your actual projects 👌
