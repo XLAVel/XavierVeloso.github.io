@@ -5,7 +5,7 @@ This project showcases my work, skills, and experience as a Data Analyst and Gra
 
 🚀 Live Website
 
-👉 (Add your deployed website link here)
+👉 https://xlavel.github.io/XavierVeloso.github.io/
 
 🧠 About This Project
 
@@ -92,16 +92,6 @@ Add project filtering functionality
 Integrate backend for contact form
 
 Improve animations and transitions
-
-📬 Contact
-
-If you’d like to collaborate or connect:
-
-LinkedIn: (Add your LinkedIn)
-
-Email: (Add your email)
-
-GitHub: (Add your GitHub profile link)
 
 ⭐ Support
 
