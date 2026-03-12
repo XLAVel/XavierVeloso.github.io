@@ -71,8 +71,6 @@ Python
 
 Power BI
 
-Tableau
-
 Other Skills:
 
 Data Visualization
@@ -100,4 +98,4 @@ If you like this project, feel free to star the repository!
 👨‍💻 Author
 
 Xavier Veloso
-Data Analyst | Graphic Designer
+Data Analyst
