@@ -27,14 +27,6 @@ The goal of this project is to combine data storytelling with visual design in a
 
 HTML5
 
-CSS3
-
-JavaScript (if applicable)
-
-Responsive Web Design
-
-Dark Mode UI
-
 📂 Project Structure
 /portfolio-website
 │── index.html
